@@ -103,6 +103,7 @@ st.title('Movie Recommender System')
 # 0ed778e3b6b725cd4eeeccf42e6de65e
 # https://image.tmdb.org/t/p/w500/
 
+
 st.markdown(
     "### Our Global Top 10 Movies List:"
 )
